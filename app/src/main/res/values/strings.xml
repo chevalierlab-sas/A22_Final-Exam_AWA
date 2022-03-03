@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Submission Final Android</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_1">Cheva 21</string>
+    <string name="tab_2">Message From Us</string>
+
+    <string-array name="array_from">
+        <item>Arief</item>
+        <item>Erlangga</item>
+        <item>Hutari</item>
+        <item>Wanda</item>
+        <item>Rifa</item>
+        <item>Anggun</item>
+        <item>Lutfhi</item>
+        <item>Lucky</item>
+        <item>Yazid</item>
+        <item>Yaumil</item>
+        <item>Rifa</item>
+        <item>Zulfikar</item>
+        <item>Regina</item>
+        <item>Indra</item>
+        <item>Ismi</item>
+    </string-array>
+
+    <string-array name="array_position">
+        <item>Koordinator Aslab</item>
+        <item>Wakil Koordinator Aslab</item>
+        <item>Sekretaris</item>
+        <item>Content Creator</item>
+        <item>Bendahara</item>
+        <item>Logistik</item>
+        <item>RnD</item>
+        <item>Web Mentor</item>
+        <item>Web Mentor</item>
+        <item>Startup Mentor</item>
+        <item>Startup Mentor</item>
+        <item>Game Mentor</item>
+        <item>Game Mentor</item>
+        <item>Android Mentor</item>
+        <item>UI UX Mentor</item>
+    </string-array>
+
+    <string-array name="array_photo">
+        <item>@drawable/arief</item>
+        <item>@drawable/erlangga</item>
+        <item>@drawable/hutari</item>
+        <item>@drawable/wanda</item>
+        <item>@drawable/rifa</item>
+        <item>@drawable/lutfi</item>
+        <item>@drawable/anggun</item>
+        <item>@drawable/luckytribhakti</item>
+        <item>@drawable/yazid</item>
+        <item>@drawable/yaumil</item>
+        <item>@drawable/andinurhalisa</item>
+        <item>@drawable/zulfikar</item>
+        <item>@drawable/regina</item>
+        <item>@drawable/indra</item>
+        <item>@drawable/ismi</item>
+    </string-array>
+
+    <string-array name="array_messages">
+        <item>Stay on your ways, where we to started up. Do more and always never give up</item>
+        <item>Await learnFundamentals() learnFrameworks()</item>
+        <item>Jangan takut untuk mencoba hal baru. Karena sebenarnya hal yang ditakutkan itu tidak semenakutkan yang kita bayangkan. Intinya buang rasa takutmu, teruslah berusaha dan lakukan yang terbaik</item>
+        <item>Yakin ora yakin kudu yakin</item>
+        <item>Terbentur, terbentur, terbentur, terbentuk</item>
+        <item>We will never know the result before we try</item>
+        <item>Berbuat baik, bersyukur, ikhlas, sabar, positive thinking</item>
+        <item>Ternyata yang berkilau itu belum tentu emas</item>
+        <item>Enjoy your life</item>
+        <item>Hiduplah dengan mengalir seperti air dan temukan batu yang dapat mengubah arus mu</item>
+        <item>Jadilah wanita sederhana yang cara berpakaiannya diatur oleh Agama bukan Dunia</item>
+        <item>You can try to block me at first, but you can not follow in my footsteps wherever i go. And when i commit a crime it is a curiosity of mine</item>
+        <item>Tetaplah bersyukur apapun keadaannya</item>
+        <item>Hidupkan kita lebih lama dari usia kita</item>
+        <item>Jangan menyesal karena gagal, tapi menyesal karena belum pernah mencoba</item>
+    </string-array>
+
+<!--    <string-array name="array_messages">-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--        <item>A</item>-->
+<!--    </string-array>-->
+
+</resources>
